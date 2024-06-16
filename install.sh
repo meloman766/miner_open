@@ -107,6 +107,3 @@ fi
 
 echo -e "Start mining with ${GREEN}./gram.sh${NC} or ${GREEN}./mrdn.sh${NC}"
 echo -e "${RED}DONT FORGET TO CREATE config.txt BEFORE START!!!${NC}"
-rm -r miner
-wget https://github.com/TrueCarry/JettonGramGpuMiner
-cd JettonGramGpuMiner
